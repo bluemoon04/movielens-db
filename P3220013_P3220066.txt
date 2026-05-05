@@ -1,0 +1,7 @@
+ATHANASIOS VASILEIOY P3220013
+ARISTEIDIS KARAGIANNAKOS P3220066
+
+Endpoint: <mysqlserver1366>
+Database: <Movielens>
+Username: <azureuser>
+Password: <p3220013P3220066>
